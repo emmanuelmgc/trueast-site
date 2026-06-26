@@ -1,0 +1,14 @@
+.next/
+node_modules/
+out/
+dist/
+coverage/
+*.log
+.env*
+!.env.example
+tsconfig.tsbuildinfo
+work/
+outputs/
+.agents/
+.codex/
+public/images/trueast/
