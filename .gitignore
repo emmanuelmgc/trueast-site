@@ -2,6 +2,10 @@
 node_modules/
 out/
 dist/
+_next/
+*.txt
+404.html
+404/
 coverage/
 *.log
 .env*
